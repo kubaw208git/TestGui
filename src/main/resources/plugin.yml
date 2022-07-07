@@ -1,0 +1,9 @@
+name: TestGui
+version: 1.0
+main: me.kubaw208.TestGui.main.TestGui
+api-version: 1.18
+author: twojkubus
+
+commands:
+  gui:
+    aliases: [opengui]
